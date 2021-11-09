@@ -1,0 +1,10 @@
+1. Drug-drug interaction : MedicinalProductInteraction
+2. Radiology report : DiagnosticReport
+3. Fetal and Maternal Monitor : Observation
+4. An optometrist : Practitioner
+5. Dictated Sound Clip : Media
+6. Respiratory Rate : Observation
+7. Sputum : Specimen
+8. Pharmacy : HealthcareService
+9. Patient educational material sent by a provider to a patient : Communication
+10. Occupational Therapy : CarePlan
